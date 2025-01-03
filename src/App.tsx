@@ -89,7 +89,7 @@ function App() {
   return (
     <>
       <div className="relative w-full h-full py-20 lg:py-0 sm:py-0 xl:py-0 lg:h-screen sm:h-screen xl:h-screen flex items-center justify-center  border-red-600 bg-black text-white">
-      
+      <h1 className="fixed top-10 right-10 font-bold text-black  bg-white px-2 pb-0.5 rounded-sm">Aceing<span className="text-[#7600BC]">Dev</span></h1>
         <div className="w-full  flex flex-col items-center justify-center">
           <div className="lg:text-3xl text-2xl font-medium text-[#3486d2] text-center  mb-2">
             Testimonials That Inspire
